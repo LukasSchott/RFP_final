@@ -4,7 +4,7 @@ __author__ = 'lukas'
 #              Andreas Mueller
 # Modified for Documentation merge by Jaques Grobler
 # License: BSD 3 clause
-import sys
+# import sys #hallo lukas
 import numpy as np
 import pylab as pl
 from matplotlib.colors import ListedColormap
